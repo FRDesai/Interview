@@ -1,0 +1,2395 @@
+{
+    "value": {
+        "version": "0.0.2",
+        "id": "pursuit-0263197f-3076-4629-8e2b-f2247b19bf21",
+        "metadata": {
+            "type": "pursuit",
+            "sub_type": "pursuit",
+            "status": "active",
+            "operation_status": false,
+            "inoperative_message": "<p>While this <strong>Pursuit</strong> is being <strong>curated</strong>, you're <strong>invited</strong> to join us in the <strong>Townhall</strong> and chat with <strong>fellow Patrons and Stewards</strong>, or view our <strong>curated screensaver content﻿</strong></p>",
+            "date": {
+                "created": "2025-04-30T23:26:13.264+05:30[Asia/Kolkata]",
+                "modified": "2025-04-30T23:26:13.264+05:30[Asia/Kolkata]"
+            },
+            "captain_pursuit_id": "captain_pursuit-e9b1c4a3-f460-47f9-ac6c-5bb08a9a41cc",
+            "tags": [
+                "pursuit",
+                "pursuit",
+                "Leadership Themes Assessment"
+            ],
+            "collections": [
+                "collection-bf071098-92ef-4a77-8301-ea0283b6de08"
+            ],
+            "authors": {
+                "user-fathima.desai@sibylgaze.com": {
+                    "permissions": "rw",
+                    "domain": "domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed"
+                }
+            },
+            "lock_guard": {},
+            "pursuit": {
+                "status": "open",
+                "framework": {
+                    "id": "3",
+                    "value": "pestle",
+                    "label": "PESTLE",
+                    "type": "canonical"
+                },
+                "title": "Leadership Themes Assessment",
+                "start_date": "2025-04-29",
+                "end_date": "2025-05-30"
+            },
+            "logs": {
+                "creation": [],
+                "operation": [
+                    {
+                        "first_name": "Roger",
+                        "last_name": "Moser",
+                        "email": "roger.moser@mq.edu.au",
+                        "name": "Roger Moser",
+                        "id": "user-roger.moser@mq.edu.au",
+                        "status": "Non Resident",
+                        "characters": "-"
+                    },
+                    {
+                        "id": "user-roger@sibylgaze.com",
+                        "username": "roger@sibylgaze.com",
+                        "name": "Roger  Moser",
+                        "email": "roger@sibylgaze.com",
+                        "first_name": "Roger",
+                        "middle_name": "",
+                        "last_name": "Moser",
+                        "characters": [
+                            "Patron",
+                            "Steward",
+                            "Domain Architect"
+                        ]
+                    },
+                    {
+                        "id": "user-adithya@sibylgaze.com",
+                        "username": "adithya@sibylgaze.com",
+                        "name": "Adithya  Vasudevan",
+                        "email": "adithya@sibylgaze.com",
+                        "first_name": "Adithya",
+                        "middle_name": "",
+                        "last_name": "Vasudevan",
+                        "characters": [
+                            "Patron",
+                            "Steward",
+                            "Domain Architect"
+                        ]
+                    },
+                    {
+                        "id": "user-fathima.desai@sibylgaze.com",
+                        "username": "fathima.desai@sibylgaze.com",
+                        "name": "Fathima  Desai",
+                        "email": "fathima.desai@sibylgaze.com",
+                        "first_name": "Fathima",
+                        "middle_name": "",
+                        "last_name": "Desai",
+                        "characters": [
+                            "Patron",
+                            "Steward",
+                            "Domain Architect",
+                            "Domain Author"
+                        ]
+                    }
+                ]
+            },
+            "lock": {
+                "pursuit": [
+                    {
+                        "key": "pursuit-0263197f-3076-4629-8e2b-f2247b19bf21",
+                        "owner": "fathima.desai@sibylgaze.com",
+                        "unlockCode": "fb8a1793-556a-43c9-820d-4a1e57e6d6d5",
+                        "start": "2025-05-06T03:20:51.481268778+02:00",
+                        "end": null,
+                        "status": "Locked",
+                        "duration": "PT1H"
+                    }
+                ],
+                "huddles_chat": [
+                    {
+                        "key": "chat-8b886dd9-1964-4c9f-8b58-3240a19de87e",
+                        "owner": "fathima.desai@sibylgaze.com",
+                        "unlockCode": "ac0d53d7-50ed-428c-a38d-aa21183a0c43",
+                        "start": "2025-05-06T03:20:51.800957489+02:00",
+                        "end": null,
+                        "status": "Locked",
+                        "duration": "PT1H"
+                    }
+                ],
+                "townhall_chat": [
+                    {
+                        "key": "chat-d3a3a686-feed-4c98-8f5f-935ba8708f46",
+                        "owner": "fathima.desai@sibylgaze.com",
+                        "unlockCode": "ab4c25e1-8b62-4781-9852-34d845394184",
+                        "start": "2025-05-06T03:20:52.025463776+02:00",
+                        "end": null,
+                        "status": "Locked",
+                        "duration": "PT1H"
+                    }
+                ],
+                "invitation_chat": [
+                    {
+                        "key": "chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c",
+                        "owner": "fathima.desai@sibylgaze.com",
+                        "unlockCode": "61f37787-4647-4d8f-bfef-af0e7aa59245",
+                        "start": "2025-05-06T03:20:52.30182942+02:00",
+                        "end": null,
+                        "status": "Locked",
+                        "duration": "PT1H"
+                    },
+                    {
+                        "key": "chat-686514dd-ae4e-4fc7-9e6d-ea81e23f7ee4",
+                        "owner": "fathima.desai@sibylgaze.com",
+                        "unlockCode": "52b0e93a-2923-45be-ba31-7e99dd3bae7a",
+                        "start": "2025-05-06T03:20:52.308626334+02:00",
+                        "end": null,
+                        "status": "Locked",
+                        "duration": "PT1H"
+                    }
+                ]
+            },
+            "isCompleted": true
+        },
+        "data": {
+            "pursuit_data": {
+                "versions": {
+                    "0": {
+                        "data": {
+                            "add_dimensions": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "dimension_options": [
+                                    {
+                                        "label": "Political",
+                                        "description": "Factors related to government policies, regulations, and political stability."
+                                    },
+                                    {
+                                        "label": "Economic",
+                                        "description": "Factors affecting the economy, such as inflation, unemployment, and economic growth."
+                                    },
+                                    {
+                                        "label": "Social",
+                                        "description": "Societal and cultural aspects, including demographics, lifestyle changes, and social trends."
+                                    },
+                                    {
+                                        "label": "Legal",
+                                        "description": "Legal considerations, including laws, regulations, and legal systems impacting the business."
+                                    },
+                                    {
+                                        "label": "Technological",
+                                        "description": "Technological advancements and innovations that may affect operations and market dynamics."
+                                    },
+                                    {
+                                        "label": "Environment",
+                                        "description": "Environmental factors, including ecological and environmental regulations, and sustainability issues."
+                                    },
+                                    {
+                                        "label": "Context Uncertainty",
+                                        "description": "Factors related to industry flux, competitive pressure, and identifying new growth opportunities."
+                                    },
+                                    {
+                                        "label": "Strategic Awareness",
+                                        "description": "Understanding of company strategy and execution according to objectives."
+                                    },
+                                    {
+                                        "label": "Strategy Execution",
+                                        "description": "Focus on successful strategy implementation."
+                                    },
+                                    {
+                                        "label": "Cross-Departmental Collaboration",
+                                        "description": "Collaboration across departments, cultures and regions to maximize business opportunities."
+                                    },
+                                    {
+                                        "label": "Change Management",
+                                        "description": "Leadership capability in guiding organizations through change and transformation processes."
+                                    },
+                                    {
+                                        "label": "Customer Centricity",
+                                        "description": "Focus on customer needs and customer-centric approaches."
+                                    },
+                                    {
+                                        "label": "Innovation",
+                                        "description": "Organization-wide responsibility for innovation."
+                                    },
+                                    {
+                                        "label": "Digital Transformation",
+                                        "description": "Leadership clarity in digital value creation."
+                                    }
+                                ],
+                                "dimensions": [
+                                    {
+                                        "dimension_id": "ddb3a60d-96ff-429c-a986-96d7924abf62",
+                                        "dimension": "Context Uncertainty",
+                                        "title": "Context Uncertainty",
+                                        "weight": "1.0",
+                                        "rank": 1,
+                                        "description": "Factors related to industry flux, competitive pressure, and identifying new growth opportunities."
+                                    },
+                                    {
+                                        "dimension_id": "0fc36ff1-86b9-499e-94a4-af213dd9fc03",
+                                        "dimension": "Strategic Awareness",
+                                        "title": "Strategic Awareness",
+                                        "weight": "1.0",
+                                        "rank": 2,
+                                        "description": "Understanding of company strategy and execution according to objectives."
+                                    },
+                                    {
+                                        "dimension_id": "8cc47358-61e2-4dd5-96d0-627561adcd68",
+                                        "dimension": "Cross-Departmental Collaboration",
+                                        "title": "Cross-Departmental Collaboration",
+                                        "weight": "1.0",
+                                        "rank": 3,
+                                        "description": "Collaboration across departments, cultures and regions to maximize business opportunities."
+                                    },
+                                    {
+                                        "dimension_id": "615a8765-6da0-4dd4-9dc9-ea0f45d72c5c",
+                                        "dimension": "Change Management",
+                                        "title": "Change Management",
+                                        "weight": "1.0",
+                                        "rank": 4,
+                                        "description": "Leadership capability in guiding organizations through change and transformation processes."
+                                    },
+                                    {
+                                        "dimension_id": "2aafb36b-7625-4b03-9804-12dd8375e8b4",
+                                        "dimension": "Customer Centricity",
+                                        "title": "Customer Centricity",
+                                        "weight": "1.0",
+                                        "rank": 5,
+                                        "description": "Focus on customer needs and customer-centric approaches."
+                                    },
+                                    {
+                                        "dimension_id": "a0ea5051-ebe3-427f-b8e5-5b752b936ebd",
+                                        "dimension": "Innovation",
+                                        "title": "Innovation",
+                                        "weight": "1.0",
+                                        "rank": 6,
+                                        "description": "Organization-wide responsibility for innovation."
+                                    },
+                                    {
+                                        "dimension_id": "ffcb2d5a-4ea7-45f6-a541-49a54b2d3ce1",
+                                        "dimension": "Digital Transformation",
+                                        "title": "Digital Transformation",
+                                        "weight": "1.0",
+                                        "rank": 7,
+                                        "description": "Leadership clarity in digital value creation."
+                                    },
+                                    {
+                                        "dimension_id": "3f6c8b9b-38e2-4f19-b8f8-28dd2b5e713a",
+                                        "dimension": "Strategy Execution",
+                                        "title": "Strategy Execution",
+                                        "weight": "1.0",
+                                        "rank": 8,
+                                        "description": "Focus on successful strategy implementation."
+                                    }
+                                ],
+                                "current_rank": 10,
+                                "selected_dimensions": [],
+                                "complete": true
+                            },
+                            "add_subdimensions": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "dimensionOptions": [],
+                                "sub_dimensions": [],
+                                "current_rank": 1,
+                                "selected_dimensions": []
+                            },
+                            "add_dialogues": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "dialogues": [
+                                    {
+                                        "dialogue": "Context Uncertainty Assessment",
+                                        "weight": "1.0",
+                                        "rank": 1,
+                                        "description": "Addressing periods of extreme flux and competitive pressure in the industry.",
+                                        "dialogue_id": "a20db7d4-5520-464f-88e6-038c192656fb",
+                                        "dimension": 1
+                                    },
+                                    {
+                                        "dialogue": "Strategic Awareness Assessment",
+                                        "weight": "1.0",
+                                        "rank": 2,
+                                        "description": "Evaluating organizational understanding of company strategy and execution.",
+                                        "dialogue_id": "b31c5f61-a5b4-4682-b94c-2d56bd08f70e",
+                                        "dimension": 2
+                                    },
+                                    {
+                                        "dialogue": "Strategy Execution Assessment",
+                                        "weight": "1.0",
+                                        "rank": 3,
+                                        "description": "Examining execution capability for successful strategy implementation.",
+                                        "dialogue_id": "69d3079b-d7b0-4dca-bfd9-c022cf146f08",
+                                        "dimension": 8
+                                    },
+                                    {
+                                        "dialogue": "Cross-Departmental Collaboration Assessment",
+                                        "weight": "1.0",
+                                        "rank": 4,
+                                        "description": "Addressing collaboration across departments, cultures and regions.",
+                                        "dialogue_id": "2f67df55-d96f-474a-a503-8f8603bc415d",
+                                        "dimension": 3
+                                    },
+                                    {
+                                        "dialogue": "Change Management Assessment",
+                                        "weight": "1.0",
+                                        "rank": 5,
+                                        "description": "Evaluating leaders' capabilities in guiding transformation processes.",
+                                        "dialogue_id": "f457476b-598a-4a20-add6-723e7264b70b",
+                                        "dimension": 4
+                                    },
+                                    {
+                                        "dialogue": "Customer Centricity Assessment",
+                                        "weight": "1.0",
+                                        "rank": 6,
+                                        "description": "Addressing customer-centricity and understanding of client needs",
+                                        "dialogue_id": "edb7101c-53f9-421f-b191-c54214cc7c6b",
+                                        "dimension": 5
+                                    },
+                                    {
+                                        "dialogue": "Innovation Assessment",
+                                        "weight": "1.0",
+                                        "rank": 7,
+                                        "description": "Evaluating organization-wide involvement in innovation.",
+                                        "dialogue_id": "bcfd4fac-3ce6-467d-b5ef-797a4c34a2ea",
+                                        "dimension": 6
+                                    },
+                                    {
+                                        "dialogue": "Digital Transformation Assessment",
+                                        "weight": "1.0",
+                                        "rank": 8,
+                                        "description": "Addressing leadership clarity in digital value creation.",
+                                        "dialogue_id": "abfb297c-1bfd-4aa5-a13b-71d20b9143cf",
+                                        "dimension": 7
+                                    }
+                                ],
+                                "unique_id": 1
+                            },
+                            "add_retorts": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "retorts": [
+                                    {
+                                        "dimension": 2,
+                                        "retort_statement": "STRATEGIC AWARENESS",
+                                        "retort_weight": "1.0",
+                                        "rank": 2,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "64b3043f-27d1-425b-8d6f-ea955960f867",
+                                        "dialogue": 2
+                                    },
+                                    {
+                                        "dimension": 8,
+                                        "retort_statement": "STRATEGY EXECUTION",
+                                        "retort_weight": "1.0",
+                                        "rank": 3,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "5ba29703-8c1d-4ff5-ae01-d160c162d392",
+                                        "dialogue": 3
+                                    },
+                                    {
+                                        "dimension": 3,
+                                        "retort_statement": "CROSS-DEPARTEMENTAL COLLABORATION",
+                                        "retort_weight": "1.0",
+                                        "rank": 4,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "d13dde8f-6181-4e12-b42b-20e56326ba1d",
+                                        "dialogue": 4
+                                    },
+                                    {
+                                        "dimension": 4,
+                                        "retort_statement": "CHANGE MANAGEMENT",
+                                        "retort_weight": "1.0",
+                                        "rank": 5,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "75e56f04-9939-4c15-8ab8-cda0cc45f6a8",
+                                        "dialogue": 5
+                                    },
+                                    {
+                                        "dimension": 5,
+                                        "retort_statement": "CUSTOMER CENTRICITY",
+                                        "retort_weight": "1.0",
+                                        "rank": 6,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "3ec830df-0c49-4087-abb8-5068795e6ac2",
+                                        "dialogue": 6
+                                    },
+                                    {
+                                        "dimension": 6,
+                                        "retort_statement": "INNOVATION",
+                                        "retort_weight": "1.0",
+                                        "rank": 7,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "629672ec-ff55-4a28-aa4f-35e7fe23fd58",
+                                        "dialogue": 7
+                                    },
+                                    {
+                                        "dimension": 7,
+                                        "retort_statement": "DIGITAL TRANSFORMATION",
+                                        "retort_weight": "1.0",
+                                        "rank": 8,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Horizontally",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Horizontally",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "7def272e-c354-42ac-9613-ea3735573f41",
+                                        "dialogue": 8
+                                    },
+                                    {
+                                        "dimension": 1,
+                                        "retort_statement": "CONTEXT UNCERTAINTY",
+                                        "retort_weight": "1.0",
+                                        "rank": 1,
+                                        "retort_description": "Please rate the STATEMENT below in the context of your company",
+                                        "arrangement_input": "Sequential",
+                                        "stacked_input": "Vertically",
+                                        "layout_input": "Isolated",
+                                        "arrangement_output": "Sequential",
+                                        "stacked_output": "Vertically",
+                                        "layout_output": "Isolated",
+                                        "retort_id": "c77d6662-9850-4395-b089-a363bff53651",
+                                        "dialogue": 1
+                                    }
+                                ],
+                                "unique_id": 1
+                            },
+                            "add_questions": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "questions": [
+                                    {
+                                        "dimension": 1,
+                                        "dialogue": 1,
+                                        "question": "In our industry, we face a period of extreme flux and great competitive pressure in which we need to",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 1,
+                                        "weight": "1.0",
+                                        "description": "In our industry, we face a period of extreme flux and great competitive pressure in which we need to identify new ways of doing it (existing business) and new sources of growth outside our traditional activities.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                        "retort": 1
+                                    },
+                                    {
+                                        "dimension": 2,
+                                        "dialogue": 2,
+                                        "question": "Today, the entire organization has fully understood what the company’s strategy is about and has sta",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 2,
+                                        "weight": "1.0",
+                                        "description": "Today, the entire organization has fully understood what the company’s strategy is about and has started to execute according to its objectives.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "5b4dccac-6004-49d9-b39f-440af8f88385",
+                                        "retort": 2
+                                    },
+                                    {
+                                        "dimension": 8,
+                                        "dialogue": 3,
+                                        "question": "At our company, we are missing a strong execution focus to successfully implement our strategies.",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 3,
+                                        "weight": "1.0",
+                                        "description": "At our company, we are missing a strong execution focus to successfully implement our strategies.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "623cb66a-f086-4ffd-90ad-176a741a1515",
+                                        "retort": 3
+                                    },
+                                    {
+                                        "dimension": 3,
+                                        "dialogue": 4,
+                                        "question": "At our company, we miss out on business opportunities because collaboration across departments, cult",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 4,
+                                        "weight": "1.0",
+                                        "description": "At our company, we miss out on business opportunities because collaboration across departments, cultures and regions does not work smoothly.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "cdb13c60-f1d4-4671-8b76-f8f70d3118c2",
+                                        "retort": 4
+                                    },
+                                    {
+                                        "dimension": 4,
+                                        "dialogue": 5,
+                                        "question": "At our company, leaders are strong in guiding and leading the organization through change and transf",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 5,
+                                        "weight": "1.0",
+                                        "description": "At our company, leaders are strong in guiding and leading the organization through change and transformation processes knowing how to engage our company’s workforce and building the required strategic capabilities.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "b926c2b5-15d3-46ab-9894-40bbe22552c8",
+                                        "retort": 5
+                                    },
+                                    {
+                                        "dimension": 5,
+                                        "dialogue": 6,
+                                        "question": "At our company, we are customer-centric towards our clients and we precisely know the needs of them.",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 6,
+                                        "weight": "1.0",
+                                        "description": "At our company, we are customer-centric towards our clients and we precisely know the needs of them.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "7b53e3a6-429f-4909-8f83-8551a347162b",
+                                        "retort": 6
+                                    },
+                                    {
+                                        "dimension": 6,
+                                        "dialogue": 7,
+                                        "question": "At our company, innovation is not seen as a responsibility of everyone.",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 7,
+                                        "weight": "1.0",
+                                        "description": "At our company, innovation is not seen as a responsibility of everyone.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "098eb923-f173-4d48-90c3-2a4576cb8b09",
+                                        "retort": 7
+                                    },
+                                    {
+                                        "dimension": 7,
+                                        "dialogue": 8,
+                                        "question": "At our company, our leaders are not clear how to successfully lead digital value creation.",
+                                        "input_type": "ratings",
+                                        "labels": [
+                                            "",
+                                            ""
+                                        ],
+                                        "rank": 8,
+                                        "weight": "1.0",
+                                        "description": "At our company, our leaders are not clear how to successfully lead digital value creation.",
+                                        "minimumvalue": 1,
+                                        "minimumLabel": "Minimum",
+                                        "maximumvalue": 7,
+                                        "maximumLabel": "Maximum",
+                                        "customaization": {
+                                            "orientation": "horizontal",
+                                            "labelPosition": "top",
+                                            "labelOrdering": "ascending",
+                                            "sliderOrdering": "right"
+                                        },
+                                        "question_id": "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed",
+                                        "retort": 8
+                                    }
+                                ],
+                                "go_to_next_question": true
+                            },
+                            "seed_values": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "justification": [
+                                    {
+                                        "id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                        "dimension": 1,
+                                        "dialogue": 1,
+                                        "question": 1,
+                                        "retort": 1,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 5,
+                                        "justification": "\"Great competitive pressure\" is true for most applications, however, there are a few, where we have significantly lower pressure, than in others. \"new sources of growth outside our traditional activities\" definetly true. However, the traditional business has to fund the new businesses and has to be kept in focus accordingly.\n",
+                                        "justificationMd": ""
+                                    },
+                                    {
+                                        "id": "cdb13c60-f1d4-4671-8b76-f8f70d3118c2",
+                                        "dimension": 3,
+                                        "dialogue": 4,
+                                        "question": 4,
+                                        "retort": 4,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 1,
+                                        "justification": "Collaboration and communication across departments and regions is enhanced significantly in the last years. We promote collaboration by promoting job rotations and diversity. Also a good example of enhancing communication and collaboration is applying the CRM tool which gives insights to all about market and projects and keep everyone up to date.\n",
+                                        "justificationMd": ""
+                                    },
+                                    {
+                                        "id": "5b4dccac-6004-49d9-b39f-440af8f88385",
+                                        "dimension": 2,
+                                        "dialogue": 2,
+                                        "question": 2,
+                                        "retort": 2,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 2,
+                                        "justification": "By far not clear to everybody. question of most employees is, what the plan is with \"their\" products, which has not been answered yet in depth\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    },
+                                    {
+                                        "id": "b926c2b5-15d3-46ab-9894-40bbe22552c8",
+                                        "dimension": 4,
+                                        "dialogue": 5,
+                                        "question": 5,
+                                        "retort": 5,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 6,
+                                        "justification": "I believe leadership is highly committed. I also believe that in many cases the balance between short term results and long term sustainability must be found.\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    },
+                                    {
+                                        "id": "7b53e3a6-429f-4909-8f83-8551a347162b",
+                                        "dimension": 5,
+                                        "dialogue": 6,
+                                        "question": 6,
+                                        "retort": 6,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 3,
+                                        "justification": "We are very product-driven meaning our customer approach is centered around the question which products we want to sell him. A really customer-centric approach would be first to listen to the customer and find out his problems and then thinking about our products afterwards\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    },
+                                    {
+                                        "id": "098eb923-f173-4d48-90c3-2a4576cb8b09",
+                                        "dimension": 6,
+                                        "dialogue": 7,
+                                        "question": 7,
+                                        "retort": 7,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 2,
+                                        "justification": "I see the teams in my department is working extremely hard to find new ways of doing things. This informs future strategy, investment and execution decisions. I do not believe this is the case collectively unfortunately as there appears to be resistance to change and continuous improvement in some areas.\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    },
+                                    {
+                                        "id": "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed",
+                                        "dimension": 7,
+                                        "dialogue": 8,
+                                        "question": 8,
+                                        "retort": 8,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 7,
+                                        "justification": "There are good examples, but there is room for improvement. New business models needs to be clear and understood to ensure appropriate technical solutions.\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    },
+                                    {
+                                        "id": "623cb66a-f086-4ffd-90ad-176a741a1515",
+                                        "dimension": 8,
+                                        "dialogue": 3,
+                                        "question": 3,
+                                        "retort": 3,
+                                        "minValue": 1,
+                                        "maxValue": 7,
+                                        "value": 3,
+                                        "justification": "Our business is fast in changes, so we need the flexibility to react on these changes on the market. To focus on execution is right for sure, but not if \"strong\" means \"unflexible\".\n",
+                                        "justificationMd": "",
+                                        "label": ""
+                                    }
+                                ]
+                            },
+                            "add_contents": {
+                                "treeData": [
+                                    {
+                                        "label": "Background Level",
+                                        "value": "background_level"
+                                    },
+                                    {
+                                        "label": "Framework Level",
+                                        "value": "framework_level"
+                                    },
+                                    {
+                                        "label": "Curation Screen Saver",
+                                        "value": "curation_screen_saver"
+                                    },
+                                    {
+                                        "label": "Context Uncertainty",
+                                        "value": "context_uncertainty",
+                                        "children": [
+                                            {
+                                                "label": "Context Uncertainty Assessment",
+                                                "value": "context_uncertainty_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "CONTEXT UNCERTAINTY",
+                                                        "value": "context_uncertainty",
+                                                        "children": [
+                                                            {
+                                                                "label": "In our industry, we face a period of extreme flux and great competitive pressure in which we need to",
+                                                                "value": "in_our_industry,_we_face_a_period_of_extreme_flux_and_great_competitive_pressure_in_which_we_need_to"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Strategic Awareness",
+                                        "value": "strategic_awareness",
+                                        "children": [
+                                            {
+                                                "label": "Strategic Awareness Assessment",
+                                                "value": "strategic_awareness_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "STRATEGIC AWARENESS",
+                                                        "value": "strategic_awareness",
+                                                        "children": [
+                                                            {
+                                                                "label": "Today, the entire organization has fully understood what the company’s strategy is about and has sta",
+                                                                "value": "today,_the_entire_organization_has_fully_understood_what_the_company’s_strategy_is_about_and_has_sta"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Cross-Departmental Collaboration",
+                                        "value": "cross-departmental_collaboration",
+                                        "children": [
+                                            {
+                                                "label": "Cross-Departmental Collaboration Assessment",
+                                                "value": "cross-departmental_collaboration_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "CROSS-DEPARTEMENTAL COLLABORATION",
+                                                        "value": "cross-departemental_collaboration",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, we miss out on business opportunities because collaboration across departments, cult",
+                                                                "value": "at_our_company,_we_miss_out_on_business_opportunities_because_collaboration_across_departments,_cult"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Change Management",
+                                        "value": "change_management",
+                                        "children": [
+                                            {
+                                                "label": "Change Management Assessment",
+                                                "value": "change_management_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "CHANGE MANAGEMENT",
+                                                        "value": "change_management",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, leaders are strong in guiding and leading the organization through change and transf",
+                                                                "value": "at_our_company,_leaders_are_strong_in_guiding_and_leading_the_organization_through_change_and_transf"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Customer Centricity",
+                                        "value": "customer_centricity",
+                                        "children": [
+                                            {
+                                                "label": "Customer Centricity Assessment",
+                                                "value": "customer_centricity_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "CUSTOMER CENTRICITY",
+                                                        "value": "customer_centricity",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, we are customer-centric towards our clients and we precisely know the needs of them.",
+                                                                "value": "at_our_company,_we_are_customer-centric_towards_our_clients_and_we_precisely_know_the_needs_of_them."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Innovation",
+                                        "value": "innovation",
+                                        "children": [
+                                            {
+                                                "label": "Innovation Assessment",
+                                                "value": "innovation_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "INNOVATION",
+                                                        "value": "innovation",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, innovation is not seen as a responsibility of everyone.",
+                                                                "value": "at_our_company,_innovation_is_not_seen_as_a_responsibility_of_everyone."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Digital Transformation",
+                                        "value": "digital_transformation",
+                                        "children": [
+                                            {
+                                                "label": "Digital Transformation Assessment",
+                                                "value": "digital_transformation_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "DIGITAL TRANSFORMATION",
+                                                        "value": "digital_transformation",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, our leaders are not clear how to successfully lead digital value creation.",
+                                                                "value": "at_our_company,_our_leaders_are_not_clear_how_to_successfully_lead_digital_value_creation."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "label": "Strategy Execution",
+                                        "value": "strategy_execution",
+                                        "children": [
+                                            {
+                                                "label": "Strategy Execution Assessment",
+                                                "value": "strategy_execution_assessment",
+                                                "children": [
+                                                    {
+                                                        "label": "STRATEGY EXECUTION",
+                                                        "value": "strategy_execution",
+                                                        "children": [
+                                                            {
+                                                                "label": "At our company, we are missing a strong execution focus to successfully implement our strategies.",
+                                                                "value": "at_our_company,_we_are_missing_a_strong_execution_focus_to_successfully_implement_our_strategies."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "contents": [
+                                    {
+                                        "id": "content-30fb6828-4e59-42e1-84ff-60e6d9f01c6c",
+                                        "target": [
+                                            "2",
+                                            "3",
+                                            "3-0",
+                                            "3-0-0",
+                                            "3-0-0-0"
+                                        ],
+                                        "name": " Excel In Uncertainty - Operating in a VUCA world, Orion & UNISG (Statement 1)",
+                                        "tags": [
+                                            "Uncertainty"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-f2d4611e-0f8b-4fe2-a76b-9aa54e4d978e",
+                                        "target": [
+                                            "2",
+                                            "3",
+                                            "3-0",
+                                            "3-0-0",
+                                            "3-0-0-0"
+                                        ],
+                                        "name": "The Modern Dilemma Balancing Short- and Long-Term Business Pressures",
+                                        "tags": [
+                                            "The Modern Dilemma\nBalancing Short- and\nLong-Term Business Pressures"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 757513,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-5f6e6a77-8630-4685-b908-90fb0423597b",
+                                        "target": [
+                                            "2",
+                                            "3",
+                                            "3-0",
+                                            "3-0-0",
+                                            "3-0-0-0"
+                                        ],
+                                        "name": "New business formation and incumbents' perception of competitive pressure",
+                                        "tags": [
+                                            "New business formation and incumbents' perception of\ncompetitive pressure"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 775913,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-2ac70666-5475-4c89-95d2-24d833dface1",
+                                        "target": [
+                                            "2",
+                                            "4",
+                                            "4-0",
+                                            "4-0-0",
+                                            "4-0-0-0"
+                                        ],
+                                        "name": " Aligning Strategy and Execution, with Beverly Davis",
+                                        "tags": [
+                                            "Strategy",
+                                            "Execution"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-b30e9d3c-66e2-46de-b3a6-b6f2c7786ac8",
+                                        "target": [
+                                            "2",
+                                            "4",
+                                            "4-0",
+                                            "4-0-0",
+                                            "4-0-0-0"
+                                        ],
+                                        "name": "The Strategic Management of Execution",
+                                        "tags": [
+                                            "The Strategic Management of\nExecution"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 288624,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-e58b6c23-b788-4609-a4e3-e414822ca662",
+                                        "target": [
+                                            "2",
+                                            "4",
+                                            "4-0",
+                                            "4-0-0",
+                                            "4-0-0-0"
+                                        ],
+                                        "name": "Executing Organizational Strategy -- A Literature Review and Research Agenda ",
+                                        "tags": [
+                                            "Executing Organizational Strategy -- A Literature Review and Research Agenda"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 95236,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-b30e9d3c-66e2-46de-b3a6-b6f2c7786ac8",
+                                        "target": [
+                                            "2",
+                                            "10",
+                                            "10-0",
+                                            "10-0-0",
+                                            "10-0-0-0"
+                                        ],
+                                        "name": "The Strategic Management of Execution",
+                                        "tags": [
+                                            "The Strategic Management of\nExecution"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 288624,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-7ad6c0b1-abf5-4133-be9f-f05d9950f60b",
+                                        "target": [
+                                            "2",
+                                            "10",
+                                            "10-0",
+                                            "10-0-0",
+                                            "10-0-0-0"
+                                        ],
+                                        "name": "Closing the Execution Gap (Statement 3)",
+                                        "tags": [
+                                            "Execution"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-0c80788c-fcdf-437e-af6c-c5dcc072462f",
+                                        "target": [
+                                            "2",
+                                            "5",
+                                            "5-0",
+                                            "5-0-0",
+                                            "5-0-0-0"
+                                        ],
+                                        "name": " How To Improve Cross-Functional Collaboration (Statement 4)",
+                                        "tags": [
+                                            "Cross-Functional"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-2d9e855b-e282-4f15-a3d7-561799306289",
+                                        "target": [
+                                            "2",
+                                            "5",
+                                            "5-0",
+                                            "5-0-0",
+                                            "5-0-0-0"
+                                        ],
+                                        "name": "ENHANCING CROSS CULTURAL COLLABORATION IN THE GLOBAL WORKPLACE: STRATEGIES AND CHALLENGES ",
+                                        "tags": [
+                                            "ENHANCING CROSS CULTURAL COLLABORATION\nIN THE GLOBAL WORKPLACE: STRATEGIES AND\nCHALLENGES"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 534742,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-26a5e6a2-52b6-4398-a59f-d02597455e30",
+                                        "target": [
+                                            "2",
+                                            "6",
+                                            "6-0",
+                                            "6-0-0",
+                                            "6-0-0-0"
+                                        ],
+                                        "name": "Six Key Levers of a Successful Organizational Transformation",
+                                        "tags": [
+                                            "6 Key Levers of a Successful Organizational Transformation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 4209352,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-4e36388a-1190-4c3e-9de4-4ef0bff08b6c",
+                                        "target": [
+                                            "2",
+                                            "6",
+                                            "6-0",
+                                            "6-0-0",
+                                            "6-0-0-0"
+                                        ],
+                                        "name": "Best Practices for Leading Through Organizational Change (Statement 5)",
+                                        "tags": [
+                                            "Leading"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-67bc7715-6534-4007-9f96-0582322d351d",
+                                        "target": [
+                                            "2",
+                                            "6",
+                                            "6-0",
+                                            "6-0-0",
+                                            "6-0-0-0"
+                                        ],
+                                        "name": "Navigating Change: A Leader’s Role",
+                                        "tags": [
+                                            "Navigating Change: A Leader’s Role"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 1010156,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-57507852-c8e4-42b4-8670-6a0a197a7eee",
+                                        "target": [
+                                            "2",
+                                            "7",
+                                            "7-0",
+                                            "7-0-0",
+                                            "7-0-0-0"
+                                        ],
+                                        "name": "CUSTOMER CENTRICITY",
+                                        "tags": [
+                                            "CUSTOMER CENTRICITY"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 704946,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-adde8954-5881-4f93-90f9-a01c627fbf5b",
+                                        "target": [
+                                            "2",
+                                            "7",
+                                            "7-0",
+                                            "7-0-0",
+                                            "7-0-0-0"
+                                        ],
+                                        "name": "Customer Centricity: Evolution and Analytics",
+                                        "tags": [
+                                            "Customer Centricity: Evolution and Analytics"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 3377874,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-5d1c91d8-1bc0-4289-af28-eee46101a24e",
+                                        "target": [
+                                            "2",
+                                            "7",
+                                            "7-0",
+                                            "7-0-0",
+                                            "7-0-0-0"
+                                        ],
+                                        "name": " Building A Customer-Centric Culture: Four Steps to Success",
+                                        "tags": [
+                                            "customer",
+                                            "Centric"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-484747ec-073f-46c8-b39d-1e3d4f0dd80c",
+                                        "target": [
+                                            "2",
+                                            "8",
+                                            "8-0",
+                                            "8-0-0",
+                                            "8-0-0-0"
+                                        ],
+                                        "name": "Five Theses on the Ethics of Innovation",
+                                        "tags": [
+                                            "Five Theses on the\nEthics of Innovation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 387855,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-d13424a9-ba90-4e59-86e1-05e1e76d7cce",
+                                        "target": [
+                                            "2",
+                                            "8",
+                                            "8-0",
+                                            "8-0-0",
+                                            "8-0-0-0"
+                                        ],
+                                        "name": "Varieties of responsibility: two problems of responsible innovation",
+                                        "tags": [
+                                            "Varieties of responsibility: two problems of responsible\ninnovation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 507724,
+                                        "type": "application/pdf"
+                                    },
+                                    {
+                                        "id": "content-e1aaa113-a7fa-434d-bf14-bbc2d1a3c8c4",
+                                        "target": [
+                                            "2",
+                                            "8",
+                                            "8-0",
+                                            "8-0-0",
+                                            "8-0-0-0"
+                                        ],
+                                        "name": "Innovation is Everyone's Responsibility | Whirlpool Corporation (Statement 7)",
+                                        "tags": [
+                                            "Innovation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-ee9a319d-da4d-4c3c-bb4f-4564d078e737",
+                                        "target": [
+                                            "0"
+                                        ],
+                                        "name": "Delphi Method",
+                                        "tags": [
+                                            "Delphi",
+                                            "Method"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-60ca58f7-e541-436e-83ee-9dcbbe175550",
+                                        "target": [
+                                            "2",
+                                            "9",
+                                            "9-0",
+                                            "9-0-0",
+                                            "9-0-0-0"
+                                        ],
+                                        "name": " Leading Digital Transformation: Overview (Statement 8)",
+                                        "tags": [
+                                            "Digital",
+                                            "Transformation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": "",
+                                        "type": "video/youtube"
+                                    },
+                                    {
+                                        "id": "content-d13424a9-ba90-4e59-86e1-05e1e76d7cce",
+                                        "target": [
+                                            "9",
+                                            "9-0",
+                                            "9-0-0",
+                                            "9-0-0-0"
+                                        ],
+                                        "name": "Varieties of responsibility: two problems of responsible innovation",
+                                        "tags": [
+                                            "Varieties of responsibility: two problems of responsible\ninnovation"
+                                        ],
+                                        "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                        "size": 507724,
+                                        "type": "application/pdf"
+                                    }
+                                ],
+                                "complete": true,
+                                "flag": {
+                                    "complete": true
+                                }
+                            },
+                            "publish_framework": {
+                                "title": "Leadership Themes Assessment",
+                                "description": "This short real-time Delphi study serves as part of our joint preparation for your HSG-ES Business Mastery program at the University of St.Gallen starting in 2025. The idea is to collect your opinions about how your company X deals with the topics we want to explore during the entire program. \n\nDon't worry, we DO NOT conduct a classic survey but simply list 8 (partially controversial) statements (it's on purpose). For each statement we want your level of agreement (0 - 100) as well as a short explanation why you agree or disagree with the respective statement.\nIn return, you will be able to see after each statement how your opinion stands compared to your peers that have also participated and what kind of arguments they have provided for a high or low assessment. \nAll your inputs will be treated completely confidential & anonymous and will be analyzed as a group result. Nobody at MAN-ES will know who has rated each statement how and why.\n\nWe estimate that this Delphi study will not require more than 15 minutes of your time.\n\nPlease answer this study LATEST until end of 2025! \n\nThank you for your participation!\n\nKind regards, \n\nRM",
+                                "start_date": "2025-04-29",
+                                "end_date": "2025-07-30",
+                                "introduction": "<p><strong style=\"font-size: 24px;\">Delphi Study - TUTORIAL</strong><br><br>Dear Participant, </p><p><br></p><p>After submitting your input for one of the eight statements, please click on the <strong>NEXT button</strong>. This will enable you to view the assessments of other participants, along with their reasons for a&nbsp;high or low assessment. Your assessment&nbsp;will be indicated by an <strong>RED DOT</strong> within the box plot overiew.</p><ul><li><span style=\"font-size: 16px;\">You will also see the quartile values represented in the box plot and can check the specific comments made by your peers per quartile.</span></li><li><span style=\"font-size: 16px;\">At the top left corner, you can access all comments per statement directly and filter them according to your needs. <br></span></li><li><span style=\"font-size: 16px;\">You then have the opportunity to revise your assessment if the explanations provided by your peers have changed your opinion<span style=\"font-size: 16px;\">. </span></span><span style=\"font-size: 16px;\">You can do this by clicking on the <strong>BACK </strong>button&nbsp;before proceeding to the next projection. </span></li></ul><p>If you don't want to make any adaptations to your assessment or arguments, simply press the NEXT button&nbsp;again.&nbsp; You may pause the study at any time by closing your browser window. You can resume where you left off by using the study link provided or login to your new residency account. <br><br><strong>Let's begin!</strong></p>",
+                                "collection": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                "holding": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                "companion": "collection-bf071098-92ef-4a77-8301-ea0283b6de08",
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true,
+                                "published": true
+                            },
+                            "invite_patrons": {
+                                "patrons": [
+                                    {
+                                        "id": "user-roger.moser@mq.edu.au",
+                                        "name": "Roger Moser",
+                                        "email": "roger.moser@mq.edu.au",
+                                        "first_name": "Roger",
+                                        "last_name": "Moser",
+                                        "status": "Resident",
+                                        "characters": "Patron"
+                                    },
+                                    {
+                                        "id": "user-adithya@sibylgaze.com",
+                                        "name": "Adithya Vasudevan",
+                                        "email": "adithya@sibylgaze.com",
+                                        "first_name": "Adithya",
+                                        "last_name": "Vasudevan",
+                                        "status": "Resident",
+                                        "characters": "Patron, Steward, Domain Architect, Market Analyst"
+                                    },
+                                    {
+                                        "id": "user-abhishek@di-invest.co",
+                                        "name": "Abhishek Raju",
+                                        "email": "abhishek@di-invest.co",
+                                        "first_name": "Abhishek",
+                                        "last_name": "Raju",
+                                        "status": "Resident",
+                                        "characters": "Patron, Market Analyst"
+                                    },
+                                    {
+                                        "id": "user-roger@sibylgaze.com",
+                                        "name": "Roger Moser",
+                                        "email": "roger@sibylgaze.com",
+                                        "first_name": "Roger",
+                                        "last_name": "Moser",
+                                        "status": "Resident",
+                                        "characters": "Patron, Steward, Domain Architect, Market Analyst"
+                                    }
+                                ],
+                                "editor_value": "  \n  <p>Hi Patron,</p>\n  <br/>\n  <p>\n    You're invited to join the pursuit \"Leadership Themes Assessment\" starting on 2025-04-29 and\n    ending on 2025-07-30.\n  </p>\n    <br/>\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  <p>\n    Click here to access the pursuit: <a href=/patron/participation/url/pursuit-0263197f-3076-4629-8e2b-f2247b19bf21>Leadership Themes Assessment</a>\n  </p>\n  <br/>\n  <p>\n    Best regards,\n    <br />\n    fathima.desai@sibylgaze.com\n  </p>\n",
+                                "show_new_patron_form": false,
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true
+                            },
+                            "invite_stewards": {
+                                "stewards": [
+                                    {
+                                        "id": "user-roger@sibylgaze.com",
+                                        "username": "roger@sibylgaze.com",
+                                        "name": "Roger  Moser",
+                                        "email": "roger@sibylgaze.com",
+                                        "first_name": "Roger",
+                                        "middle_name": "",
+                                        "last_name": "Moser",
+                                        "characters": [
+                                            "Patron",
+                                            "Steward",
+                                            "Domain Architect"
+                                        ]
+                                    },
+                                    {
+                                        "id": "user-adithya@sibylgaze.com",
+                                        "username": "adithya@sibylgaze.com",
+                                        "name": "Adithya  Vasudevan",
+                                        "email": "adithya@sibylgaze.com",
+                                        "first_name": "Adithya",
+                                        "middle_name": "",
+                                        "last_name": "Vasudevan",
+                                        "characters": [
+                                            "Patron",
+                                            "Steward",
+                                            "Domain Architect"
+                                        ]
+                                    }
+                                ],
+                                "editor_value": "\n  <p>Hi Steward,</p>\n  <br/>\n  <p>\n    You're invited to join the pursuit \"Leadership Themes Assessment\" starting on 2025-04-29 and\n    ending on 2025-07-30.\n  </p>\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  <br/>\n  <p>\n    Click here to access the captain pursuit: <a href=/patron/participation/url/Leadership Themes Assessment>Leadership Themes Assessment</a>\n  </p>\n  <br/>\n  <p>\n    Best regards,\n    <br />\n    fathima.desai@sibylgaze.com\n  </p>\n",
+                                "show_new_patron_form": false,
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true
+                            },
+                            "box_plot": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "complete": true
+                            },
+                            "launch_pursuit": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "status": false,
+                                "complete": true
+                            },
+                            "invitation_chat_pursuit": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "status": false,
+                                "complete": true
+                            },
+                            "chaperone_chat_pursuit": {
+                                "flag": {
+                                    "complete": false
+                                },
+                                "status": false,
+                                "complete": true
+                            },
+                            "policy_and_grant": {
+                                "flag": {
+                                    "complete": true
+                                },
+                                "complete": true,
+                                "policies": {
+                                    "designate_local_selection_farming_protocol": [
+                                        {
+                                            "id": "policy-fcfa364a-ff08-4def-b7fc-8b3a915f66d2",
+                                            "metadata": {
+                                                "policy": "designate_local_selection_farming_protocol",
+                                                "author": {
+                                                    "user": "fathima.desai@sibylgaze.com",
+                                                    "domain": "domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed"
+                                                },
+                                                "date": {
+                                                    "created": "2025-05-01T01:35:27.138+05:30[Asia/Kolkata]",
+                                                    "modified": "2025-05-01T01:35:27.138+05:30[Asia/Kolkata]"
+                                                }
+                                            },
+                                            "data": {
+                                                "title": "designateLocalSelectionFarmingProtocol",
+                                                "description": "Designate the Farming protocol for selecting the Invitation chat for a pursuit when there are more than one chat is tethered with the pursuit",
+                                                "rank": "1",
+                                                "priority": 1,
+                                                "value": {
+                                                    "selection_farming_protocol": "Round Robin"
+                                                },
+                                                "tags": [
+                                                    "policy",
+                                                    "Selection protocol",
+                                                    "ICP",
+                                                    "Pestle"
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            "generate_invitation_links": {
+                                "invitation_link": [],
+                                "patrons": [
+                                    {
+                                        "id": "user-abhishek@di-invest.co",
+                                        "name": "Abhishek Raju",
+                                        "email": "abhishek@di-invest.co",
+                                        "first_name": "Abhishek",
+                                        "last_name": "Raju",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-01T18%3A19%3A33.257%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-abhishek%40di-invest.co&first_name=Abhishek&last_name=Raju&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-a12559e4-5364-471b-b296-882b9a197157&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=230c3dd2-81de-4354-87e6-25a8b714b571",
+                                        "rcp_variety": "Auto",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-adithya@sibylgaze.com",
+                                        "name": "Adithya Vasudevan",
+                                        "email": "adithya@sibylgaze.com",
+                                        "first_name": "Adithya",
+                                        "last_name": "Vasudevan",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-01T18%3A19%3A33.258%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-adithya%40sibylgaze.com&first_name=Adithya&last_name=Vasudevan&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=b4c6377c-e695-40b9-b1c1-6f775096edc2",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-fathima.desai@sibylgaze.com",
+                                        "name": "Fathima Desai",
+                                        "email": "fathima.desai@sibylgaze.com",
+                                        "first_name": "Fathima",
+                                        "last_name": "Desai",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-01T18%3A19%3A33.258%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-fathima.desai%40sibylgaze.com&first_name=Fathima&last_name=Desai&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=e811b209-65e6-4bc1-85db-5b41bcb78786",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-roger@sibylgaze.com",
+                                        "name": "Roger Moser",
+                                        "email": "roger@sibylgaze.com",
+                                        "first_name": "Roger",
+                                        "last_name": "Moser",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-01T18%3A19%3A33.259%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-roger%40sibylgaze.com&first_name=Roger&last_name=Moser&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-a12559e4-5364-471b-b296-882b9a197157&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=25bc29df-49a8-4876-a330-dcb0c4983bc0",
+                                        "rcp_variety": "Auto",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-roger.moser@mq.edu.au",
+                                        "name": "Roger Moser",
+                                        "email": "roger.moser@mq.edu.au",
+                                        "first_name": "Roger",
+                                        "last_name": "Moser",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-02T08%3A40%3A48.890%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-roger.moser%40mq.edu.au&first_name=Roger&last_name=Moser&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=655a91fe-2c8b-406f-900b-6c631d862347",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-framework.architects@sibylgaze.com",
+                                        "name": "Framework Architects",
+                                        "email": "framework.architects@sibylgaze.com",
+                                        "first_name": "Framework",
+                                        "last_name": "Architects",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-03T18%3A13%3A05.560%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-framework.architects%40sibylgaze.com&first_name=Framework&last_name=Architects&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-a12559e4-5364-471b-b296-882b9a197157&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=9687ad20-f544-4376-b260-a1601fe66e40",
+                                        "rcp_variety": "Auto",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-decision.architects@sibylgaze.com",
+                                        "name": "Decision Architects",
+                                        "email": "decision.architects@sibylgaze.com",
+                                        "first_name": "Decision",
+                                        "last_name": "Architects",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-03T18%3A23%3A21.239%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-decision.architects%40sibylgaze.com&first_name=Decision&last_name=Architects&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=97ef4082-c467-4de5-ae03-611a9a2ddfb0",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-domain.architects@sibylgaze.com",
+                                        "name": "Domain Architects",
+                                        "email": "domain.architects@sibylgaze.com",
+                                        "first_name": "Domain",
+                                        "last_name": "Architects",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-06-03T18%3A41%3A38.776%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-domain.architects%40sibylgaze.com&first_name=Domain&last_name=Architects&character=patron&rcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=collection-295d627e-1f21-4368-b0c8-1f742573680f&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=1c1c39e1-89fc-4760-bb9b-438e50111412",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    }
+                                ],
+                                "stewards": [
+                                    {
+                                        "id": "user-roger@sibylgaze.com",
+                                        "name": "Roger  Moser",
+                                        "email": "roger@sibylgaze.com",
+                                        "first_name": "Roger",
+                                        "last_name": "Moser",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-05-31T01%3A43%3A52.165%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-roger%40sibylgaze.com&first_name=Roger&last_name=Moser&character=steward&rcpBox=undefined&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-a12559e4-5364-471b-b296-882b9a197157&lcpBox=undefined&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=bc8b8bd4-0c41-4439-90b9-33bfc834dedf",
+                                        "rcp_variety": "Auto",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-adithya@sibylgaze.com",
+                                        "name": "Adithya  Vasudevan",
+                                        "email": "adithya@sibylgaze.com",
+                                        "first_name": "Adithya",
+                                        "last_name": "Vasudevan",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-05-31T01%3A43%3A52.166%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-adithya%40sibylgaze.com&first_name=Adithya&last_name=Vasudevan&character=steward&rcpBox=undefined&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-a12559e4-5364-471b-b296-882b9a197157&lcpBox=undefined&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=bd2d40f2-bd7d-4b3f-9cb8-7478069bebfe",
+                                        "rcp_variety": "Auto",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-nihal.suvarna@sibylgaze.com",
+                                        "name": "Nihal  Suvarna",
+                                        "email": "nihal.suvarna@sibylgaze.com",
+                                        "first_name": "Nihal",
+                                        "last_name": "Suvarna",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-05-31T01%3A43%3A52.166%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-nihal.suvarna%40sibylgaze.com&first_name=Nihal&last_name=Suvarna&character=steward&rcpBox=undefined&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=undefined&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=7b737b36-4e5d-4cc1-b0c5-5a74ff050ca7",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    },
+                                    {
+                                        "id": "user-anmol.kamath@sibylgaze.com",
+                                        "name": "Anmol  Kamath",
+                                        "email": "anmol.kamath@sibylgaze.com",
+                                        "first_name": "Anmol",
+                                        "last_name": "Kamath",
+                                        "link": "https://demo.ditype.one/invite?expire=2025-05-31T01%3A43%3A52.166%2B05%3A30%5BAsia%2FKolkata%5D&domain=domain-4246e3ff-2a10-4647-abb4-0f251fbfb4ed&pursuitBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&pursuit=pursuit-0263197f-3076-4629-8e2b-f2247b19bf21&agent=user-anmol.kamath%40sibylgaze.com&first_name=Anmol&last_name=Kamath&character=steward&rcpBox=undefined&rcp=chat-1cb591cf-6a0d-4de8-bada-5f66b4410c7c&rcpKey=message-6735ae11-79f5-4ff2-8328-fc0de739f96c&lcpBox=undefined&lcp=chat-418e76d4-96f8-40cb-9b2d-637909430235&lcpKey=message-2f291417-d39d-41c2-b7bf-0bf1423c1a9b&icpBox=collection-bf071098-92ef-4a77-8301-ea0283b6de08&icp=chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c&icpKey=message-70867bd9-135d-4f06-9339-88ea214a4b6f&otp=e490210e-882b-4378-b727-8ee350784d68",
+                                        "rcp_variety": "Manual",
+                                        "lcp_variety": "Auto",
+                                        "icp_variety": "Auto"
+                                    }
+                                ],
+                                "flag": {
+                                    "complete": false
+                                },
+                                "status": false,
+                                "complete": true
+                            }
+                        },
+                        "time": "2025-05-05T18:36:02.325+05:30[Asia/Kolkata]"
+                    }
+                },
+                "version_pointer": 0
+            },
+            "help_data": [],
+            "snap_shot": {},
+            "chat": {
+                "huddles_chat": [
+                    "chat-8b886dd9-1964-4c9f-8b58-3240a19de87e"
+                ],
+                "townhall_chat": [
+                    "chat-d3a3a686-feed-4c98-8f5f-935ba8708f46"
+                ],
+                "invitation_chat": [
+                    "chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c",
+                    "chat-686514dd-ae4e-4fc7-9e6d-ea81e23f7ee4"
+                ]
+            },
+            "response": {
+                "question": {
+                    "4c33c2ee-5268-4b03-a5d9-54af9d2db87f": [
+                        {
+                            "id": "22375465-7cdd-403f-80aa-8b5c0005dd1f",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                "dimension": 1,
+                                "dialogue": 1,
+                                "question": 1,
+                                "retort": 1,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 7,
+                                "justification": "I completely agree with this. ",
+                                "justificationMd": "I completely agree"
+                            },
+                            "createdAt": "2025-04-30T20:27:03.892Z",
+                            "modifiedAt": "2025-05-03T07:53:31.160Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "plain",
+                            "rank": 1
+                        },
+                        {
+                            "id": "f1b34d45-26d9-4e27-adeb-22aac49ddae7",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                "dimension": 1,
+                                "dialogue": 1,
+                                "question": 1,
+                                "retort": 1,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 5,
+                                "justification": "\"Great competitive pressure\" is true for most applications, however, there are a few, where we have significantly lower pressure, than in others. \"new sources of growth outside our traditional activities\" definetly true. However, the traditional business has to fund the new businesses and has to be kept in focus accordingly.\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:16:06.707Z",
+                            "modifiedAt": "2025-05-02T09:31:26.513Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 11
+                        },
+                        {
+                            "id": "ee2e2ee0-6c72-4f7f-9607-28f71d7a046c",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                "dimension": 1,
+                                "dialogue": 1,
+                                "question": 1,
+                                "retort": 1,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 4,
+                                "justification": "\"Identify new ways of doing it (existing business)\" is not the only way. It's also augmentation and expansion.\n",
+                                "justificationMd": "\"Identify new ways of doing it (existing business)\" is not the only way. It's also augmentation and expansion.\n"
+                            },
+                            "createdAt": "2025-05-03T04:47:33.606Z",
+                            "modifiedAt": "2025-05-03T08:36:32.769Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "both",
+                            "rank": 17
+                        },
+                        {
+                            "id": "81428d44-2788-4171-a505-f9ced06987bf",
+                            "user": "fathima.desai@sibylgaze.com",
+                            "value": {
+                                "id": "4c33c2ee-5268-4b03-a5d9-54af9d2db87f",
+                                "dimension": 1,
+                                "dialogue": 1,
+                                "question": 1,
+                                "retort": 1,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 5,
+                                "justification": "Test",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-05T09:46:04.307Z",
+                            "modifiedAt": "2025-05-05T09:46:04.307Z",
+                            "createdBy": "fathima.desai@sibylgaze.com",
+                            "modifiedBy": "fathima.desai@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 25
+                        }
+                    ],
+                    "5b4dccac-6004-49d9-b39f-440af8f88385": [
+                        {
+                            "id": "29352d57-173c-4668-9c12-14894bc51acd",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "5b4dccac-6004-49d9-b39f-440af8f88385",
+                                "dimension": 2,
+                                "dialogue": 2,
+                                "question": 2,
+                                "retort": 2,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 6,
+                                "justification": "This is justified because I have made good experiences....",
+                                "justificationMd": "Justify with reason",
+                                "label": ""
+                            },
+                            "createdAt": "2025-04-30T20:27:44.255Z",
+                            "modifiedAt": "2025-05-03T07:24:38.116Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "both",
+                            "rank": 2
+                        },
+                        {
+                            "id": "848fc5ab-389f-40a5-89a0-8adf0f470507",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "5b4dccac-6004-49d9-b39f-440af8f88385",
+                                "dimension": 2,
+                                "dialogue": 2,
+                                "question": 2,
+                                "retort": 2,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 3,
+                                "justification": "I believe much still needs to be done to saturate the organisation with the business strategy. In many cases individuals on the coal face are still predominantly engaging in activities related to the \"old business\" and do not experience the new direction in every day life.\n\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:45:45.202Z",
+                            "modifiedAt": "2025-05-02T09:32:10.557Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 12
+                        },
+                        {
+                            "id": "b5ebe39a-1137-46b2-ad5f-62763448d41a",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "5b4dccac-6004-49d9-b39f-440af8f88385",
+                                "dimension": 2,
+                                "dialogue": 2,
+                                "question": 2,
+                                "retort": 2,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "In the last 3 years a lot of good activities to communicate our strategy have taken place. However, as our organization is slow to accept changes, it might take some time until everyone has adopted the new strategy\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-03T07:07:32.740Z",
+                            "modifiedAt": "2025-05-03T07:09:19.887Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "plain",
+                            "rank": 18
+                        }
+                    ],
+                    "cdb13c60-f1d4-4671-8b76-f8f70d3118c2": [
+                        {
+                            "id": "6bee4e46-65f1-43fe-bf5c-ad3befea8d68",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "cdb13c60-f1d4-4671-8b76-f8f70d3118c2",
+                                "dimension": 3,
+                                "dialogue": 4,
+                                "question": 4,
+                                "retort": 4,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 6,
+                                "justification": "I agree",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-04-30T23:39:44.873Z",
+                            "modifiedAt": "2025-05-01T22:43:20.777Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 3
+                        },
+                        {
+                            "id": "f853ea63-fd9c-4de0-8528-3051b28f2fcd",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "cdb13c60-f1d4-4671-8b76-f8f70d3118c2",
+                                "dimension": 3,
+                                "dialogue": 4,
+                                "question": 4,
+                                "retort": 4,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 5,
+                                "justification": "The new organisation in the Front End with splitted powers between Regions and Segments needed some time to become effective which lead to several missed opportunities and efforts in vain. However I see improvements ongoing.\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:14:17.193Z",
+                            "modifiedAt": "2025-05-02T09:33:04.537Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 9
+                        },
+                        {
+                            "id": "688eac96-4a5e-42c1-bbb1-290c26b45959",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "cdb13c60-f1d4-4671-8b76-f8f70d3118c2",
+                                "dimension": 3,
+                                "dialogue": 4,
+                                "question": 4,
+                                "retort": 4,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 1,
+                                "justification": "My perseption is that after many years of having several organisational silos e.g. PrimeServ and New Sales, all drilled to only seek for their own best, we have made a great way forward already in terms of collaboration and reaching goals together. Certainly the new oranisation with the \"regional front end\" being much more in the focus brings challanges however with role models on regional and segment side accepting the change and creating success will change the organisation as well.\n",
+                                "justificationMd": "- My perseption is that after many years of having several organisational silos e.g. DIMEServing and New Sales, all drilled to only seek for their own best, we have made a great way forward already in terms of collaboration and reaching goals together.\n- Certainly the new oranisation with the \"regional front end\" being much more in the focus brings challanges however with role models on regional and segment side accepting the change and creating success will change the organisation as well.\n",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:09:57.134Z",
+                            "modifiedAt": "2025-05-03T07:40:14.356Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "both",
+                            "rank": 19
+                        }
+                    ],
+                    "b926c2b5-15d3-46ab-9894-40bbe22552c8": [
+                        {
+                            "id": "b5d14fc6-68f3-4524-b944-3d03634c30b5",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "b926c2b5-15d3-46ab-9894-40bbe22552c8",
+                                "dimension": 4,
+                                "dialogue": 5,
+                                "question": 5,
+                                "retort": 5,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "Disagree",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-01T22:44:36.872Z",
+                            "modifiedAt": "2025-05-01T22:44:36.873Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 4
+                        },
+                        {
+                            "id": "e8864aab-b25d-4ea6-a4c6-646dd146dd0d",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "b926c2b5-15d3-46ab-9894-40bbe22552c8",
+                                "dimension": 4,
+                                "dialogue": 5,
+                                "question": 5,
+                                "retort": 5,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 7,
+                                "justification": "Top management and board have made good job in communicating the startegy and the necessary steps of the transformation. However, it is a challenge to really anchor the new way in each and every employee and process\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:46:29.301Z",
+                            "modifiedAt": "2025-05-02T09:33:49.397Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 13
+                        },
+                        {
+                            "id": "5c46dee2-c12b-4686-bef4-e64acbc80d9a",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "b926c2b5-15d3-46ab-9894-40bbe22552c8",
+                                "dimension": 4,
+                                "dialogue": 5,
+                                "question": 5,
+                                "retort": 5,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 6,
+                                "justification": "For the majority of our leaders that is correct, not for everyone. Some leaders needs more bravery to push the transformation.\nWe have a strong leadership with very good connect across functions and levels.\nmost of the leader prefer to do it old way\n",
+                                "justificationMd": "- For the majority of our leaders that is correct, not for everyone. Some leaders needs more bravery to push the transformation.\n- We have a strong leadership with very good connect across functions and levels.\n- Most of the leader prefer to do it old way\n",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:11:30.100Z",
+                            "modifiedAt": "2025-05-03T07:11:30.100Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "both",
+                            "rank": 20
+                        }
+                    ],
+                    "7b53e3a6-429f-4909-8f83-8551a347162b": [
+                        {
+                            "id": "8b05e6c7-6e97-426f-bc62-05091444e9c2",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "7b53e3a6-429f-4909-8f83-8551a347162b",
+                                "dimension": 5,
+                                "dialogue": 6,
+                                "question": 6,
+                                "retort": 6,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 6,
+                                "justification": "Agree",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-01T22:44:56.689Z",
+                            "modifiedAt": "2025-05-01T22:44:56.689Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 5
+                        },
+                        {
+                            "id": "d8eb3844-9cf1-4d87-a85c-57ec51f4edef",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "7b53e3a6-429f-4909-8f83-8551a347162b",
+                                "dimension": 5,
+                                "dialogue": 6,
+                                "question": 6,
+                                "retort": 6,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "We are very product-driven meaning our customer approach is centered around the question which products we want to sell him. A really customer-centric approach would be first to listen to the customer and find out his problems and then thinking about our products afterwards\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:15:30.905Z",
+                            "modifiedAt": "2025-05-02T09:34:10.437Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 10
+                        },
+                        {
+                            "id": "17a1bd4a-0bdf-4c04-bc3f-25ed9e493082",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "7b53e3a6-429f-4909-8f83-8551a347162b",
+                                "dimension": 5,
+                                "dialogue": 6,
+                                "question": 6,
+                                "retort": 6,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "We have a lot to offer, but there still is room for improvment, especially when it comes to solutions.\nWe can improve to develop products which are demaned as well as sustainable due to financial targets. Sales and Execution can reinforce relationship tocustomers.\n",
+                                "justificationMd": "- We have a lot to offer, but there still is room for improvement, especially when it comes to solutions.\n- We can improve to develop products which are demanded as well as sustainable due to financial targets. Sales and Execution can reinforce relationship to customers.\n",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:13:28.450Z",
+                            "modifiedAt": "2025-05-03T07:13:28.450Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "both",
+                            "rank": 21
+                        }
+                    ],
+                    "098eb923-f173-4d48-90c3-2a4576cb8b09": [
+                        {
+                            "id": "3941cb04-4969-482f-aebb-acc1d18d2f3b",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "098eb923-f173-4d48-90c3-2a4576cb8b09",
+                                "dimension": 6,
+                                "dialogue": 7,
+                                "question": 7,
+                                "retort": 7,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 4,
+                                "justification": "Confused ",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-01T22:45:35.681Z",
+                            "modifiedAt": "2025-05-01T22:45:35.681Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 6
+                        },
+                        {
+                            "id": "fafc00d4-6d9b-419a-b074-eba559817fbd",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "098eb923-f173-4d48-90c3-2a4576cb8b09",
+                                "dimension": 6,
+                                "dialogue": 7,
+                                "question": 7,
+                                "retort": 7,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 1,
+                                "justification": "I see the teams in my department is working extremely hard to find new ways of doing things. This informs future strategy, investment and execution decisions. I do not believe this is the case collectively unfortunately as there appears to be resistance to change and continuous improvement in some areas.\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T02:47:26.904Z",
+                            "modifiedAt": "2025-05-02T09:34:44.148Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 14
+                        },
+                        {
+                            "id": "2cf5aadb-ac09-4701-8f0e-0809abddd2e8",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "098eb923-f173-4d48-90c3-2a4576cb8b09",
+                                "dimension": 6,
+                                "dialogue": 7,
+                                "question": 7,
+                                "retort": 7,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "I do not agree because we have many innovative employees. ",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:18:11.928Z",
+                            "modifiedAt": "2025-05-03T07:18:11.928Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "plain",
+                            "rank": 22
+                        }
+                    ],
+                    "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed": [
+                        {
+                            "id": "43d5962b-7eff-45e6-83df-d9653e2e5196",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed",
+                                "dimension": 7,
+                                "dialogue": 8,
+                                "question": 8,
+                                "retort": 8,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 5,
+                                "justification": "Agree",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-01T22:45:58.694Z",
+                            "modifiedAt": "2025-05-01T22:45:58.694Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 7
+                        },
+                        {
+                            "id": "b30c2656-3808-481b-b58c-8bb56a87625c",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed",
+                                "dimension": 7,
+                                "dialogue": 8,
+                                "question": 8,
+                                "retort": 8,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 2,
+                                "justification": "We need to make good investment for developing products suiting various kind of customer requirement as customers are extremely conservative/cautious to allow connecting their high value assets and their performance data to a wide open access network irrespective of securitization measures. We need a good speed in this area as many customer systems already implemented in their plants are highly advanced in this regard.\n",
+                                "justificationMd": ""
+                            },
+                            "createdAt": "2025-05-02T09:35:30.725Z",
+                            "modifiedAt": "2025-05-02T09:35:42.930Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 15
+                        },
+                        {
+                            "id": "b9b366b4-ac60-49fc-b23f-2f61a182567a",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "640a1baf-61a0-4e6e-9ae6-e0b31a19a7ed",
+                                "dimension": 7,
+                                "dialogue": 8,
+                                "question": 8,
+                                "retort": 8,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 3,
+                                "justification": "To develop a really attractive value proposition for our digital products is challenging. The way ahead is reasonably clear, however implementation to arrive at actual products for which the customer is actually willing to pay is very hard work\nI think there are very good ideas. But often it is not easy to implement it in such a big company.\n",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:22:13.278Z",
+                            "modifiedAt": "2025-05-03T07:22:13.278Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "plain",
+                            "rank": 23
+                        }
+                    ],
+                    "623cb66a-f086-4ffd-90ad-176a741a1515": [
+                        {
+                            "id": "fded1146-b00a-4934-a10a-2ab3c2b715a9",
+                            "user": "adithya@sibylgaze.com",
+                            "value": {
+                                "id": "623cb66a-f086-4ffd-90ad-176a741a1515",
+                                "dimension": 8,
+                                "dialogue": 3,
+                                "question": 3,
+                                "retort": 3,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 4,
+                                "justification": "I'm kind of in the middle on this one",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-01T22:46:47.456Z",
+                            "modifiedAt": "2025-05-01T22:46:47.456Z",
+                            "createdBy": "adithya@sibylgaze.com",
+                            "modifiedBy": "adithya@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 8
+                        },
+                        {
+                            "id": "7a5775db-4a2b-4e06-a8d3-f6fbec2d1fbe",
+                            "user": "roger@sibylgaze.com",
+                            "value": {
+                                "id": "623cb66a-f086-4ffd-90ad-176a741a1515",
+                                "dimension": 8,
+                                "dialogue": 3,
+                                "question": 3,
+                                "retort": 3,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 3,
+                                "justification": "I experience a strong focus for execution within the Management to drive the change in our portfolio. However, we still have several major development programs in their finalization phase that need to be finished before full focus on strategy implementation is possible.\n",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-02T09:36:24.813Z",
+                            "modifiedAt": "2025-05-02T09:36:24.813Z",
+                            "createdBy": "roger@sibylgaze.com",
+                            "modifiedBy": "roger@sibylgaze.com",
+                            "type": "plain",
+                            "rank": 16
+                        },
+                        {
+                            "id": "ca3b62a7-6775-4ebf-9873-652f51ebcf7b",
+                            "user": "roger.moser@mq.edu.au",
+                            "value": {
+                                "id": "623cb66a-f086-4ffd-90ad-176a741a1515",
+                                "dimension": 8,
+                                "dialogue": 3,
+                                "question": 3,
+                                "retort": 3,
+                                "minValue": 1,
+                                "maxValue": 7,
+                                "value": 6,
+                                "justification": "The cooperation between locations and countries could be improved to better know other initiatives and focus on implementing them togehter.\nTo overcome the structural obstacles as mentioned before\nNot all decision making processes in the company are synchronized with the corporate strategy. Product Strategy is better integrated than Decision making for CAPEX or adaption of IT projects/ressources.\n",
+                                "justificationMd": "",
+                                "label": ""
+                            },
+                            "createdAt": "2025-05-03T07:23:12.114Z",
+                            "modifiedAt": "2025-05-03T07:23:12.114Z",
+                            "createdBy": "roger.moser@mq.edu.au",
+                            "modifiedBy": "roger.moser@mq.edu.au",
+                            "type": "plain",
+                            "rank": 24
+                        }
+                    ]
+                },
+                "bookmark": {
+                    "adithya@sibylgaze.com": {},
+                    "roger@sibylgaze.com": {
+                        "6bee4e46-65f1-43fe-bf5c-ad3befea8d68": true,
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": true
+                    },
+                    "roger.moser@mq.edu.au": {
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": true
+                    },
+                    "fathima.desai@sibylgaze.com": {}
+                },
+                "rating": {
+                    "adithya@sibylgaze.com": {},
+                    "roger@sibylgaze.com": {
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": 45
+                    },
+                    "roger.moser@mq.edu.au": {
+                        "29352d57-173c-4668-9c12-14894bc51acd": 1,
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": 1
+                    },
+                    "fathima.desai@sibylgaze.com": {}
+                },
+                "rank": 26,
+                "user_rank": {
+                    "adithya@sibylgaze.com": {
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": 1,
+                        "29352d57-173c-4668-9c12-14894bc51acd": 2,
+                        "6bee4e46-65f1-43fe-bf5c-ad3befea8d68": 3,
+                        "b5d14fc6-68f3-4524-b944-3d03634c30b5": 4,
+                        "8b05e6c7-6e97-426f-bc62-05091444e9c2": 5,
+                        "3941cb04-4969-482f-aebb-acc1d18d2f3b": 6,
+                        "43d5962b-7eff-45e6-83df-d9653e2e5196": 7,
+                        "fded1146-b00a-4934-a10a-2ab3c2b715a9": 8
+                    },
+                    "roger@sibylgaze.com": {
+                        "f853ea63-fd9c-4de0-8528-3051b28f2fcd": 1,
+                        "d8eb3844-9cf1-4d87-a85c-57ec51f4edef": 2,
+                        "f1b34d45-26d9-4e27-adeb-22aac49ddae7": 4,
+                        "848fc5ab-389f-40a5-89a0-8adf0f470507": 5,
+                        "e8864aab-b25d-4ea6-a4c6-646dd146dd0d": 6,
+                        "fafc00d4-6d9b-419a-b074-eba559817fbd": 7,
+                        "6bee4e46-65f1-43fe-bf5c-ad3befea8d68": 15,
+                        "22375465-7cdd-403f-80aa-8b5c0005dd1f": 3,
+                        "29352d57-173c-4668-9c12-14894bc51acd": 11,
+                        "b5d14fc6-68f3-4524-b944-3d03634c30b5": 10,
+                        "8b05e6c7-6e97-426f-bc62-05091444e9c2": 12,
+                        "b30c2656-3808-481b-b58c-8bb56a87625c": 9,
+                        "7a5775db-4a2b-4e06-a8d3-f6fbec2d1fbe": 16,
+                        "3941cb04-4969-482f-aebb-acc1d18d2f3b": 13,
+                        "43d5962b-7eff-45e6-83df-d9653e2e5196": 14
+                    },
+                    "roger.moser@mq.edu.au": {
+                        "ee2e2ee0-6c72-4f7f-9607-28f71d7a046c": 17,
+                        "b5ebe39a-1137-46b2-ad5f-62763448d41a": 18,
+                        "688eac96-4a5e-42c1-bbb1-290c26b45959": 19,
+                        "5c46dee2-c12b-4686-bef4-e64acbc80d9a": 20,
+                        "17a1bd4a-0bdf-4c04-bc3f-25ed9e493082": 21,
+                        "2cf5aadb-ac09-4701-8f0e-0809abddd2e8": 22,
+                        "b9b366b4-ac60-49fc-b23f-2f61a182567a": 23,
+                        "ca3b62a7-6775-4ebf-9873-652f51ebcf7b": 24
+                    },
+                    "fathima.desai@sibylgaze.com": {
+                        "81428d44-2788-4171-a505-f9ced06987bf": 25
+                    }
+                }
+            },
+            "invitations": {
+                "user-adithya@sibylgaze.com": {
+                    "status": "approved",
+                    "chat": "chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c",
+                    "message": "message-513fa4e4-c39f-40c8-98fe-a418b0176a18"
+                },
+                "user-roger@sibylgaze.com": {
+                    "status": "approved",
+                    "chat": "chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c",
+                    "message": "message-3a42250b-191b-4d67-aa47-1d808e033327"
+                },
+                "user-roger.moser@mq.edu.au": {
+                    "status": "approved",
+                    "chat": "chat-c021f4d8-80f0-4e35-8b9d-dfbaf76b938c",
+                    "message": "message-0acc5501-4f78-44af-a39f-8f9d68b6f285"
+                }
+            }
+        },
+        "generation": "generation_1",
+        "generation_id": "1.0.0"
+    }
+}
